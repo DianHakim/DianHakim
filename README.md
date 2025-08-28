@@ -1,14 +1,18 @@
 # 👋 Hi, I'm Dian Hakim  
 
 💻 Full Stack & Backend Developer  
-🚀 Passionate about building scalable web apps with Laravel, and MySQL.
+🚀 Passionate about building scalable web apps  
 
 ---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=DianHakim&show_icons=true&theme=tokyonight&hide_border=true)
+
+### 📂 Top Languages
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianHakim&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🌱 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DianHakim&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)
-
----
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DianHakim&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)
 
 
 
