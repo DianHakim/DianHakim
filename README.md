@@ -8,13 +8,13 @@
 ## 📊 GitHub Stats | Statistik GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=DianHakim&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianHakim&layout=compact&theme=tokyonight&hide_border=true)
 
----
 
 ## 🌱 Contribution Graph | Grafik Kontribusi
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DianHakim&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)
 
+
+⭐️ *Thanks for visiting my profile!* | *Terima kasih sudah mampir ke profil saya!*
 
 
 <!--
